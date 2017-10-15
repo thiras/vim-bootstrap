@@ -30,6 +30,7 @@ Plugin 'tpope/vim-fugitive'
 " Thiras
 Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/syntastic'
+Plugin 'bling/vim-airline'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
